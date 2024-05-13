@@ -1,4 +1,4 @@
 Naura Resolusi
 Belajar dengan giat
 Oke
-Belajar JS
+Belajar Laravel
